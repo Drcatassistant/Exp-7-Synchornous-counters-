@@ -1,7 +1,7 @@
+##  6.Implementation of 4 bit synchronous counters using verilog HDL.
+DEVELOPED BY: Jackson Raj A
 
-# DEVELOPED BY: Jackson Raj A
-# REG NO: 23012756
-##  Exp-6-Synchornous-counters - up counter and down counter 
+REG NO: 212223040071
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
