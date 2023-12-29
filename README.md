@@ -1,6 +1,6 @@
 
-# DEVELOPED BY: LAKSHMI MOUNIKA
-# REG NO: 23004124
+# DEVELOPED BY: Jackson Raj A
+# REG NO: 23012756
 ##  Exp-6-Synchornous-counters - up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
